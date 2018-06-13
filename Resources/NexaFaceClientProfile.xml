@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<profile version="6000000">
+<face_characteristics>
+	<pose_angle_yaw                     units="degrees" min="-15"   pref="0"    max="15"			qWeight="2.0"/>
+	<facial_dynamic_range               units="bits"    min="6.7"   pref="8"    max="8"				qWeight="3.0"/>
+	<percent_facial_brightness			units="%"		min="25"	pref="70"	max="90"/>
+	<percent_facial_saturation          units="%"       min="0"     pref="0"    max="90"			qWeight="4.0"/>
+</face_characteristics>
+<eye_characteristics>
+	<left_eye_closed_likelihood			units="%"		min="0"		pref="0"	max="75" />
+	<right_eye_closed_likelihood		units="%"		min="0"		pref="0"	max="75" />
+	<left_eye_valid_likelihood			units="%"		min="10"	pref="100"	max="100"			qWeight="2.0"/>
+	<right_eye_valid_likelihood			units="%"		min="10"	pref="100"	max="100"			qWeight="2.0"/>
+</eye_characteristics>
+<image_characteristics>
+	<number_channels									min="1"		pref="3"	max="3" />
+	<background_pad_type								min="2"		pref="2"	max="2" />
+</image_characteristics>
+<anomalies>
+	<focus_likelihood                   units="%"       min="50"    pref="100"	max="100"			qWeight="2.0"/>
+	<sharpness_likelihood               units="%"       min="50"    pref="100"  max="100"			qWeight="2.0"/>
+	<dark_glasses_likelihood            units="%"       min="0"     pref="0"    max="50"/>
+	<glare_likelihood                   units="%"       min="0"     pref="0"    max="50"/>
+</anomalies>
+<image_geometry>
+    <eye_separation						units="pixels"	min="60" />
+    <eye_axis_location_ratio							min="0.4"	pref="0.6"	max="0.8" />
+    <centerline_location_ratio							min="0.4"	pref="0.5"	max="0.6" />
+    <height_to_width_ratio								min="0.00"	pref="1.3"	max="2.00" />
+    <image_width_to_head_width_ratio					min="1.5"   pref="4.0"	max="6.0" />
+    <head_height_to_image_height_ratio					min="0.1"	pref="0.5"	max="0.8" />
+    <eye_axis_angle						units="degrees" min="-5"	pref="0"	max="5" />
+    <eye_axis_location_ratio_child						min="0.4"	pref="0.55" max="0.7" />
+</image_geometry>
+<image_storage>
+    <jpeg_quality_level									min="80"	pref="100"	max="100" />
+    <j2k_compression_ratio								min="1"		pref="60"	max="60" />
+    <j2k_roi_foreground_compression_ratio				min="1"		pref="50"	max="50" />
+    <j2k_roi_background_compression_ratio				min="1"		pref="100"	max="200" />
+    <image_format										min="14"		pref="14"	max="14" />
+</image_storage>
+</profile>
