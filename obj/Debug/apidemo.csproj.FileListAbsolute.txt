@@ -1,0 +1,71 @@
+C:\Users\Ajay Patel\documents\visual studio 2015\Projects\Test\apidemo\bin\ApplicationInsights.config
+C:\Users\Ajay Patel\documents\visual studio 2015\Projects\Test\apidemo\bin\roslyn\csc.exe
+C:\Users\Ajay Patel\documents\visual studio 2015\Projects\Test\apidemo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ajay Patel\documents\visual studio 2015\Projects\Test\apidemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ajay Patel\documents\visual studio 2015\Projects\Test\apidemo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ajay Patel\documents\visual studio 2015\Projects\Test\apidemo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ajay Patel\documents\visual studio 2015\Projects\Test\apidemo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ajay Patel\documents\visual studio 2015\Projects\Test\apidemo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ajay Patel\documents\visual studio 2015\Projects\Test\apidemo\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ajay Patel\documents\visual studio 2015\Projects\Test\apidemo\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ajay Patel\documents\visual studio 2015\Projects\Test\apidemo\bin\roslyn\vbc.exe
+C:\Users\Ajay Patel\documents\visual studio 2015\Projects\Test\apidemo\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ajay Patel\documents\visual studio 2015\Projects\Test\apidemo\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ajay Patel\documents\visual studio 2015\Projects\Test\apidemo\bin\apidemo.dll.config
+C:\Users\Ajay Patel\documents\visual studio 2015\Projects\Test\apidemo\bin\apidemo.dll
+C:\Users\Ajay Patel\documents\visual studio 2015\Projects\Test\apidemo\bin\apidemo.pdb
+C:\Users\Ajay Patel\documents\visual studio 2015\Projects\Test\apidemo\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Ajay Patel\documents\visual studio 2015\Projects\Test\apidemo\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Ajay Patel\documents\visual studio 2015\Projects\Test\apidemo\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Ajay Patel\documents\visual studio 2015\Projects\Test\apidemo\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Ajay Patel\documents\visual studio 2015\Projects\Test\apidemo\bin\Microsoft.AI.Web.dll
+C:\Users\Ajay Patel\documents\visual studio 2015\Projects\Test\apidemo\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Ajay Patel\documents\visual studio 2015\Projects\Test\apidemo\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Ajay Patel\documents\visual studio 2015\Projects\Test\apidemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ajay Patel\documents\visual studio 2015\Projects\Test\apidemo\bin\Newtonsoft.Json.dll
+C:\Users\Ajay Patel\documents\visual studio 2015\Projects\Test\apidemo\bin\System.Net.Http.Formatting.dll
+C:\Users\Ajay Patel\documents\visual studio 2015\Projects\Test\apidemo\bin\System.Web.Http.dll
+C:\Users\Ajay Patel\documents\visual studio 2015\Projects\Test\apidemo\bin\System.Web.Http.WebHost.dll
+C:\Users\Ajay Patel\documents\visual studio 2015\Projects\Test\apidemo\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Ajay Patel\documents\visual studio 2015\Projects\Test\apidemo\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Ajay Patel\documents\visual studio 2015\Projects\Test\apidemo\bin\Microsoft.AI.Web.xml
+C:\Users\Ajay Patel\documents\visual studio 2015\Projects\Test\apidemo\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Ajay Patel\documents\visual studio 2015\Projects\Test\apidemo\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Ajay Patel\documents\visual studio 2015\Projects\Test\apidemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ajay Patel\documents\visual studio 2015\Projects\Test\apidemo\bin\Newtonsoft.Json.xml
+C:\Users\Ajay Patel\documents\visual studio 2015\Projects\Test\apidemo\bin\System.Net.Http.Formatting.xml
+C:\Users\Ajay Patel\documents\visual studio 2015\Projects\Test\apidemo\bin\System.Web.Http.xml
+C:\Users\Ajay Patel\documents\visual studio 2015\Projects\Test\apidemo\bin\System.Web.Http.WebHost.xml
+C:\Users\Ajay Patel\documents\visual studio 2015\Projects\Test\apidemo\obj\Debug\apidemo.dll
+C:\Users\Ajay Patel\documents\visual studio 2015\Projects\Test\apidemo\obj\Debug\apidemo.pdb
+C:\Users\Ajay Patel\documents\visual studio 2015\Projects\Test\apidemo\bin\Aware.NexaIris.dll
+C:\Users\Ajay Patel\documents\visual studio 2015\Projects\Test\apidemo\obj\Debug\apidemo.csprojResolveAssemblyReference.cache
+C:\Users\Ajay Patel\documents\visual studio 2015\Projects\Test\apidemo\bin\Aware.NexaFace.dll
+C:\Users\Ajay Patel\documents\visual studio 2015\Projects\Test\apidemo\obj\Debug\apidemo.Properties.Resources.resources
+C:\Users\Ajay Patel\documents\visual studio 2015\Projects\Test\apidemo\obj\Debug\apidemo.csproj.GenerateResource.Cache
+C:\wwwroot\apidemo\bin\ApplicationInsights.config
+C:\wwwroot\apidemo\bin\apidemo.dll.config
+C:\wwwroot\apidemo\bin\apidemo.dll
+C:\wwwroot\apidemo\bin\apidemo.pdb
+C:\wwwroot\apidemo\bin\Microsoft.AI.Agent.Intercept.dll
+C:\wwwroot\apidemo\bin\Microsoft.AI.DependencyCollector.dll
+C:\wwwroot\apidemo\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\wwwroot\apidemo\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\wwwroot\apidemo\bin\Microsoft.AI.Web.dll
+C:\wwwroot\apidemo\bin\Microsoft.AI.WindowsServer.dll
+C:\wwwroot\apidemo\bin\Microsoft.ApplicationInsights.dll
+C:\wwwroot\apidemo\bin\System.Net.Http.Formatting.dll
+C:\wwwroot\apidemo\bin\System.Web.Http.dll
+C:\wwwroot\apidemo\bin\System.Web.Http.WebHost.dll
+C:\wwwroot\apidemo\bin\Microsoft.AI.DependencyCollector.xml
+C:\wwwroot\apidemo\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\wwwroot\apidemo\bin\Microsoft.AI.Web.xml
+C:\wwwroot\apidemo\bin\Microsoft.AI.WindowsServer.xml
+C:\wwwroot\apidemo\bin\Microsoft.ApplicationInsights.xml
+C:\wwwroot\apidemo\bin\System.Net.Http.Formatting.xml
+C:\wwwroot\apidemo\bin\System.Web.Http.xml
+C:\wwwroot\apidemo\bin\System.Web.Http.WebHost.xml
+C:\wwwroot\apidemo\obj\Debug\apidemo.Properties.Resources.resources
+C:\wwwroot\apidemo\obj\Debug\apidemo.csproj.GenerateResource.Cache
+C:\wwwroot\apidemo\obj\Debug\apidemo.dll
+C:\wwwroot\apidemo\obj\Debug\apidemo.pdb
